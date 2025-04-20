@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+# .env
+# .env.*
+
+# Pytest / testing
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Editor & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite database
+# *.sqlite3
+# *.db
+
+# Uploaded files
+uploads/cv/
+
+# Logs
+*.log
+
+# mypy
+.mypy_cache/
+
+# Other
+*.bak
+*.tmp
