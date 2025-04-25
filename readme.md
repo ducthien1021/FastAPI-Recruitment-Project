@@ -11,8 +11,8 @@ Dự án quản lý tuyển dụng với FastAPI, SQLAlchemy, SQLite, JWT Auth, 
 ## 📥 Clone dự án
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ducthien1021/FastAPI-Recruitment-Project.git
+cd FastAPI-Recruitment-Project
 ```
 
 ## Sau đó cài các dependencies:
@@ -32,4 +32,5 @@ Truy cập: http://127.0.0.1:8000/docs
 ## 📚 Tài liệu API
 
 Swagger UI: http://127.0.0.1:8000/docs
+
 ReDoc: http://127.0.0.1:8000/redoc
